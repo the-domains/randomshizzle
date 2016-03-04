@@ -1,0 +1,14 @@
+layout_spectrum: 0.5794844
+typography_spectrum: 0.8952738
+color:
+  saturation: 0.7472016
+  lightness: 0.4967757
+  brandStrength: 0.8465364
+  rhythmicContrast: 0.2582255
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: RandomShizzle
